@@ -27,19 +27,19 @@ This assignment should prove that a student is able to:
         - it is okay to see warnings after this steps - as long as node_modules folder is created you are alright!
   - [x ] Use `npm run browser-install` to install the browser environment for testing 
 - [ x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
-  - [ ] Use `npm run test` to run all tests in the terminal
+- [x ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
+  - [x ] Use `npm run test` to run all tests in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
-- [ ] The code MUST be formatted with Prettier
+- [x ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [x ] The code MUST be formatted with Prettier
 - [ ] Push the changes to the Github repo, when finished.
 - [ ] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 
 - [x ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
+- [x ] Add HTML Boilerplate to the document
   - [ x] confirm the head tag has a meta tag that defines the charset
         
   ```html 
