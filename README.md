@@ -26,7 +26,7 @@ This assignment should prove that a student is able to:
   - [ x] Use `npm i` to install packages
         - it is okay to see warnings after this steps - as long as node_modules folder is created you are alright!
   - [x ] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+- [ x] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
@@ -53,11 +53,11 @@ This assignment should prove that a student is able to:
 ```html
 <title>Sample project</title>
 ```
-- [ ] Set the page heading to be "Sample project"
+- [ x] Set the page heading to be "Sample project"
 ```html 
 <h1> Sample project </h1>
 ```
-- [ ] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
+- [ x] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
 ```html 
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint vitae, libero quae quasi nemo dignissimos consectetur cumque. Ipsum laborum libero iure.</p>
 ```
